@@ -1,0 +1,5 @@
+SELECT col1, col2 from mi_Tabla wHERE col1 < 20
+
+
+
+Select name FroM table2 WHEre a2 = 15
